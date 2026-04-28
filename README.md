@@ -34,6 +34,7 @@ This project implements a high-fidelity digital twin of Walmart’s supply chain
 * **Analysis:** Performed **Feature Importance Analysis**, identifying that historical momentum and pricing signals are the primary drivers of stock-outs.
 
 ---
+🚀 **Live Demo:** [M5 Walmart Supply Chain Digital Twin](https://huggingface.co/spaces/Akmr008/m5-walmart-supply-chain-digital-twin)
 
 ## 🛠️ Tech Stack
 * **Environment:** Databricks (Community Edition)
